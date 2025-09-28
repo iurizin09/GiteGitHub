@@ -21,3 +21,17 @@
 - **`git restore --staged "NOME_Arq"`**-*Esse comando volta um Add. E deixa ele no stage*
 
 - **`git reset --soft HEAD~1`**-*So desfaz o commit mas nao altera o arquivo*
+
+# Branch 
+
+**Trabalhando com branch** : 
+
+--> Fundindo branch
+
+- **`git branch 'nome'`**-*Criar branch*
+
+- **`git checkout 'nome'`**-*Entrando em branch especifico*
+
+como fundir no branch principal ?
+
+
