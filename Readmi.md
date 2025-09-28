@@ -16,3 +16,4 @@
 # **Aterando Commits** :
 
 -> Teste Arq 1 
+- **`gir restore`**- *Restaura Informacoes nos arquivos*
