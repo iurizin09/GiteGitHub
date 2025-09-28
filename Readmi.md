@@ -16,8 +16,8 @@
 # **Aterando Commits** :
 
 -> Teste Arq 1 
-- **`gir restore`**- *Restaura Inf nos arquivos*
+- **`git restore`**- *Restaura Inf nos arquivos*
 
-- **`gir restore --staged 'NOME_Arq'`**-*Esse comando volta um Add. E deixa ele no stage*
+- **`git restore --staged "NOME_Arq"`**-*Esse comando volta um Add. E deixa ele no stage*
 
 - **`git reset --soft HEAD~1`**-*So desfaz o commit mas nao altera o arquivo*
