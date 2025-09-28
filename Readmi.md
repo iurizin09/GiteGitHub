@@ -11,4 +11,4 @@
 - **`git log --oneline`**- *logs que eu fiz de commit em uma linha*
 - **`git diff`**- *O que doi modificado?*
 - **`git diff --cached`**- *Arquivos no stage pra enviar*
-
+- **`Arquivo.gitignore`**- *Arquivo meu que nao vai ser comitado gitignorr*
