@@ -16,4 +16,6 @@
 # **Aterando Commits** :
 
 -> Teste Arq 1 
-- **`gir restore`**- *Restaura Informacoes nos arquivos*
+- **`gir restore`**- *Restaura Inf nos arquivos*
+
+- **`gir restore --staged 'NOME_Arq'`**-*Esse comando volta um Add. E deixa ele no stage*
