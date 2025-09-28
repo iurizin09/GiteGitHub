@@ -1,9 +1,8 @@
-# Git e Github CbfCursos
+# Git e Github (CbfCursos)
 
-COMANDOS :
+## 🟢 COMANDOS
 
-git status
-
-git add . "Todos o arquivos rastreados"
-
-git add  'nome arquivo'
+- **`git status`** – *Mostra o status dos arquivos*  
+- **`git add .`** – *Adiciona **todos** os arquivos rastreados*  
+- **`git add <nome_arquivo>`** – *Adiciona apenas o arquivo especificado*  
+- **`git commit -m "Mensagem"`** – *Cria um commit com a mensagem informada*
