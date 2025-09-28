@@ -1,1 +1,3 @@
-Esse e um exercicior
+Esse e um exercicio
+
+-- Primeiro exercicio
