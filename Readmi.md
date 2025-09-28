@@ -12,3 +12,7 @@
 - **`git diff`**- *O que doi modificado?*
 - **`git diff --cached`**- *Arquivos no stage pra enviar*
 - **`Arquivo.gitignore`**- *Arquivo meu que nao vai ser comitado gitignorr*
+
+# **Aterando Commits** :
+
+-> Teste Arq 1 
