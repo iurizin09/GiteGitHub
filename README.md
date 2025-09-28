@@ -38,3 +38,6 @@ Exemplo: arquivos de configuração local, compilados ou dados temporários.
 - **Criar branch:**  
 ```bash
 git branch nome_da_branch
+
+
+## Comando basicoa
